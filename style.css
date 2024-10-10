@@ -1,0 +1,22 @@
+#mensaje {
+    color: aqua;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+.boton {
+    border-radius: 30px;
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+    height: 10px;
+    width: auto;
+}
+
+.boton:hover {
+    background-color: white;
+    color: black;
+    border: 3px solid black;
+}
